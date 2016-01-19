@@ -18,8 +18,8 @@ Think -> Learn -> Implement
 
 * Join our Slack Group : [https://iem-devs.slack.com](https://iem-devs.slack.com)
 * To get an auto-invite, submit your email on [https://iem-devs-slack.herokuapp.com/](https://iem-devs-slack.herokuapp.com/)
-* Be active in the Slack group, lots of ideas, projects, tips, trivia will be shared there
-* The group is divided into lot of #channels, join whichever you want. Channels serve as a purpose of relevant discussions
+* Be active in the Slack group, lots of ideas, projects, tips, trivia will be shared there.
+* The group is divided into lot of [#channels](Channels.md), join whichever you want. [Channels](Channels.md) serve as a purpose of relevant discussions
 * Create a [Github](https://github.com/) account, its a MUST!
 * We have this github organisation through which we will create projects
 
