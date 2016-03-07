@@ -8,7 +8,7 @@ These are the list of channels in Slack and their purpose for usage. This will b
 * [#datascience](https://iem-devs.slack.com/messages/datascience/) : Learn, discuss and explore the wonderful world of data
 * [#general](https://iem-devs.slack.com/messages/general/) : General chitter chatter
 * [#github](https://iem-devs.slack.com/messages/github/) : Channel to post your Github queries and usernames
-* [#ideas]() : Idea incubation channel. Post your idea or [vote](http://www.theverge.com/2015/7/9/8916347/slack-emoji-reactions) for existing ideas for the community to take up into development
+* [#ideas](https://iem-devs.slack.com/messages/ideas/team/) : Idea incubation channel. Post your idea or [vote](http://www.theverge.com/2015/7/9/8916347/slack-emoji-reactions) for existing ideas for the community to take up into development
 * [#jobs](https://iem-devs.slack.com/messages/jobs/) : Info regarding jobs. Only post relevant links / news
 * [#js](https://iem-devs.slack.com/messages/js/) : Everything related to JavaScript / NodeJS stack
 * [#python](https://iem-devs.slack.com/messages/python/) : Python hackers, assemble!
