@@ -45,6 +45,7 @@ Think -> Learn -> Implement
 ## Bonus
 
 * Interaction channel with the Alumni Network. We will try to onboard as much as Alumnis possible, both in Industry and Academia
+* AMA - Ask Me Anything with Alumni's, Developers and Researchers! Check this space for more info.
 
 ## Questions?
 
