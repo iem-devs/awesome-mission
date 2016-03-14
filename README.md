@@ -47,6 +47,12 @@ Think -> Learn -> Implement
 * Interaction channel with the Alumni Network. We will try to onboard as much as Alumnis possible, both in Industry and Academia
 * AMA - Ask Me Anything with Alumni's, Developers and Researchers! Check this space for more info.
 
+## Meetups
+
+* Weekly meetups of the group and discussions related to tech and stuff
+* Online Meetups started on [14th March, 2016](https://github.com/iem-devs/awesome-mission/blob/master/meetups/meetup-01.md). 
+
+
 ## Questions?
 
 * Open an [issue](https://github.com/iem-devs/awesome-mission/issues)!
