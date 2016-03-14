@@ -22,6 +22,7 @@
 * First meeting attended by @koustuvsinha, @hkiemcse, @arupam, @gautamrj, @shaif00
 * Had an issue with Hangouts, so used [Appear.in](https://appear.in/iem-devs), which can host 8 people.
 * Discussion on Apna Library Project : more people will join in to work on issues on the Android client. Also, the success of this project will invite more newbies to join the group
+* [Several Issues](https://github.com/iem-devs/apna-library/issues) has been created of Apna Library App. Select one issue, comment there and start to work on!
 * Had a discussion regarding Github trending repositories. Encouragement regarding open source participation.
 * Join [Freecodecamp](http://freecodecamp.com)! They offer various challenges to shape you up in Front End development. They have an extensive [wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) of articles related to JS and front end coding too. 
 * Freecodecamp is [expanding its universe](https://medium.freecodecamp.com/java-ruby-and-go-oh-my-6b5577ba2bc2) to other languages like Java, Python, Ruby, Go etc.
