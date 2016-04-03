@@ -1,9 +1,9 @@
 IEM DEVS MEETUP - 002
 ------------------------
 
-*Time* : 19:00 IST, 3rd April, 2016
+**Time** : 19:00 IST, 3rd April, 2016
 
-*URL* : _will be posted shortly_
+**URL** : _will be posted shortly_
 
 # Agenda
 
