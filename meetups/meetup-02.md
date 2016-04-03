@@ -14,6 +14,7 @@ IEM DEVS MEETUP - 002
 * DataScience discussion - Kaggle & AnalyticsVidhya
 * Nodeschool Kolkata Discussion
 * AMA on Alumni's - what to expect
+* Thoughts about higher studies
 * Random Discussion
 
 # Previous Meetups
