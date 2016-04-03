@@ -3,7 +3,7 @@ IEM DEVS MEETUP - 002
 
 **Time** : 21:00 IST, 3rd April, 2016
 
-**URL** : _will be posted shortly_
+**URL** : Appear.in : https://appear.in/iem-devs
 
 # Agenda
 
