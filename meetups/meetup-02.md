@@ -3,7 +3,8 @@ IEM DEVS MEETUP - 002
 
 **Time** : 21:00 IST, 3rd April, 2016
 
-**URL** : Appear.in : https://appear.in/iem-devs
+**URL** : ~~Appear.in : https://appear.in/iem-devs~~ **Due to Technical difficulty we have shifted our discussion in Slack. Here : https://iem-devs.slack.com/messages/meetup/team/**
+
 
 # Agenda
 
