@@ -15,3 +15,7 @@ IEM DEVS MEETUP - 002
 * Nodeschool Kolkata Discussion
 * AMA on Alumni's - what to expect
 * Random Discussion
+
+# Previous Meetups
+
+* [14th March, 2016](https://github.com/iem-devs/awesome-mission/blob/master/meetups/meetup-01.md)
