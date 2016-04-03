@@ -5,6 +5,8 @@ IEM DEVS MEETUP - 002
 
 **URL** : ~~Appear.in : https://appear.in/iem-devs~~ **Due to Technical difficulty we have shifted our discussion in Slack. Here : https://iem-devs.slack.com/messages/meetup/team/**
 
+If you have not yet joined our slack group, get the autoinvite here : https://iem-devs-slack.herokuapp.com
+
 
 # Agenda
 
