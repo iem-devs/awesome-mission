@@ -2,6 +2,7 @@
 
 These are the list of channels in Slack and their purpose for usage. This will be updated as and when new channels are created. If you are yet to join [please do so](https://iem-devs-slack.herokuapp.com).
 
+* [#ama](https://iem-devs.slack.com/messages/ama/) : AskMeAnything with IEM Alumni's, Developers & Researchers!
 * [#alumni](https://iem-devs.slack.com/messages/alumni/) : Channel to interact, connect & network with Alumni's.
 * [#android](https://iem-devs.slack.com/messages/android/) : Discuss, hack and develop everything related to Android
 * [#announcements](https://iem-devs.slack.com/messages/announcements/) : Global announcements channel for important messages
@@ -9,6 +10,7 @@ These are the list of channels in Slack and their purpose for usage. This will b
 * [#general](https://iem-devs.slack.com/messages/general/) : General chitter chatter
 * [#github](https://iem-devs.slack.com/messages/github/) : Channel to post your Github queries and usernames
 * [#ideas](https://iem-devs.slack.com/messages/ideas/team/) : Idea incubation channel. Post your idea or [vote](http://www.theverge.com/2015/7/9/8916347/slack-emoji-reactions) for existing ideas for the community to take up into development
+* [#intro](https://iem-devs.slack.com/messages/intro/) : Introduce yourself!
 * [#jobs](https://iem-devs.slack.com/messages/jobs/) : Info regarding jobs. Only post relevant links / news
 * [#js](https://iem-devs.slack.com/messages/js/) : Everything related to JavaScript / NodeJS stack
 * [#python](https://iem-devs.slack.com/messages/python/) : Python hackers, assemble!
