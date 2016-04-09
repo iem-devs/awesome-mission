@@ -12,3 +12,8 @@
 * A look at few interesting Github repositories
 * Weekly DataScience discussion
 * Random Discussion
+
+## Previous Meetups
+
+* [3rd April, 2016](https://github.com/iem-devs/awesome-mission/blob/master/meetups/meetup-02.md)
+* [14th March, 2016](https://github.com/iem-devs/awesome-mission/blob/master/meetups/meetup-01.md)
