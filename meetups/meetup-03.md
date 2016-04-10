@@ -1,7 +1,8 @@
 ## IEM DEVS MEETUP - 003
 
 **Time** : 21:00 IST, 10th April, 2016
-**URL** : Would be posted 1 hour before the start of the event
+
+**URL** : Slack [#meetup](https://iem-devs.slack.com/archives/meetup) channel
 
 ## Agenda
 
