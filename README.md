@@ -51,7 +51,8 @@ Think -> Learn -> Implement
 
 * Weekly meetups of the group and discussions related to tech and stuff
 * Online Meetups started on [14th March, 2016](https://github.com/iem-devs/awesome-mission/blob/master/meetups/meetup-01.md). 
-
+* Online Meetup to be held every Sunday, 9 PM IST.
+* [Online Meetup MOM Archives](https://github.com/iem-devs/awesome-mission/blob/master/meetups/)
 
 ## Questions?
 
