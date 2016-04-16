@@ -61,3 +61,6 @@ Think -> Learn -> Implement
 
 * This is _not_ affiliated with the college, its purely a student only participation, backed by Alumni Network
 * All open source projects should be licensed properly (preferably MIT)
+
+
+Last Updated on 16th April,2016.
