@@ -51,7 +51,8 @@ Think -> Learn -> Implement
 
 * Weekly meetups of the group and discussions related to tech and stuff
 * Online Meetups started on [14th March, 2016](https://github.com/iem-devs/awesome-mission/blob/master/meetups/meetup-01.md). 
-
+* Online Meetup to be held every Sunday, 9 PM IST.
+* [Online Meetup MOM Archives](https://github.com/iem-devs/awesome-mission/blob/master/meetups/)
 
 ## Questions?
 
@@ -61,3 +62,6 @@ Think -> Learn -> Implement
 
 * This is _not_ affiliated with the college, its purely a student only participation, backed by Alumni Network
 * All open source projects should be licensed properly (preferably MIT)
+
+
+Last Updated on 16th April,2016.
