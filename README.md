@@ -31,7 +31,7 @@ Think -> Learn -> Implement
 * We will roll out new project plans here, which we will try to implement as much as we can.
 * Technology should not be a bar. Take up a flavour, hack on it, and if you find it cool, stick with it
 * Mostly we will focus on the chief areas : Android, JS/Web/NodeJS, Python, Data Science & Machine Learning, but that is not exhaustive.
-* _Anyone_ can join, as long as they were / are students of IEM. No class distinction, interact freely with anyone.
+* _Anyone_ can join, as long as they were / are students of IEM. No class distinction, No Department Distinction, interact freely with anyone.
 
 ## Tips
 
