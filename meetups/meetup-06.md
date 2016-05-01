@@ -18,6 +18,7 @@
   * Vim Plugins - most famous and basic ones
 * Event will be streamed live and also recorded. Do join in!
 * Live streaming link will be posted here and in Slack #meetup channel
+* **Live Streaming Link** : https://www.youtube.com/channel/UCljIiFfY9GNu-YisjTTQeTg/live
 
 ## Previous Meetups
 
