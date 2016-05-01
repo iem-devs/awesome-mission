@@ -1,6 +1,6 @@
-## IEM DEVS MEETUP - 005
+## IEM DEVS MEETUP - 006
 
-**Time** : 21:00 IST, 24th April, 2016
+**Time** : 21:00 IST, 1st May, 2016
 
 **URL** : Slack [#meetup](https://iem-devs.slack.com/archives/meetup) channel
 
