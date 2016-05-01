@@ -20,6 +20,8 @@
 * Live streaming link will be posted here and in Slack #meetup channel
 * ~~**Live Streaming Link** : https://www.youtube.com/channel/UCljIiFfY9GNu-YisjTTQeTg/live~~ 
 * Recorded Session : https://youtu.be/91egsGXNR-E?t=768.
+* Session Slides : [vim.pptx](https://github.com/iem-devs/awesome-mission/files/244279/vim.pptx)
+
 
 ## Previous Meetups
 
